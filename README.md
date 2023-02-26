@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I am Sudeshna Dey👋
+- I’m currently learning Bioinformatics
 
 <!--
 **SHIPRAAAA/SHIPRAAAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
